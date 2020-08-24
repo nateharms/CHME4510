@@ -1,0 +1,14 @@
+name: chme4510
+channels:
+  - defaults
+  - anaconda
+  - conda-forge
+dependencies:
+  - python >= 3.6
+  - numpy
+  - scipy
+  - pandas
+  - sympy
+  - matplotlib
+  - seaborn
+  - jupyter
